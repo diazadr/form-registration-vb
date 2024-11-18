@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Downloads\\Compressed\\form-registration-vb-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6897F20-B66C-416C-8B35-EB41F05D042D}|Formulir Pendaftaran Pasien Baru\\Formulir Pendaftaran Pasien Baru.vbproj|c:\\users\\lenovo\\downloads\\compressed\\form-registration-vb-main\\formulir pendaftaran pasien baru\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A6897F20-B66C-416C-8B35-EB41F05D042D}|Formulir Pendaftaran Pasien Baru\\Formulir Pendaftaran Pasien Baru.vbproj|solutionrelative:formulir pendaftaran pasien baru\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Compressed\\form-registration-vb-main\\Formulir Pendaftaran Pasien Baru\\Form1.vb",
+              "RelativeDocumentMoniker": "Formulir Pendaftaran Pasien Baru\\Form1.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Compressed\\form-registration-vb-main\\Formulir Pendaftaran Pasien Baru\\Form1.vb [Design]",
+              "RelativeToolTip": "Formulir Pendaftaran Pasien Baru\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-26T05:12:51.922Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

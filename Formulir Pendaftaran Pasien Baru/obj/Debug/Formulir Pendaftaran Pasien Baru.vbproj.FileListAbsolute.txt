@@ -1,0 +1,24 @@
+C:\Users\LENOVO\source\repos\Formulir Pendaftaran Pasien Baru\Formulir Pendaftaran Pasien Baru\bin\Debug\Formulir Pendaftaran Pasien Baru.exe.config
+C:\Users\LENOVO\source\repos\Formulir Pendaftaran Pasien Baru\Formulir Pendaftaran Pasien Baru\bin\Debug\Formulir Pendaftaran Pasien Baru.exe
+C:\Users\LENOVO\source\repos\Formulir Pendaftaran Pasien Baru\Formulir Pendaftaran Pasien Baru\bin\Debug\Formulir Pendaftaran Pasien Baru.pdb
+C:\Users\LENOVO\source\repos\Formulir Pendaftaran Pasien Baru\Formulir Pendaftaran Pasien Baru\bin\Debug\Formulir Pendaftaran Pasien Baru.xml
+C:\Users\LENOVO\source\repos\Formulir Pendaftaran Pasien Baru\Formulir Pendaftaran Pasien Baru\obj\Debug\Formulir Pendaftaran Pasien Baru.vbproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Formulir Pendaftaran Pasien Baru\Formulir Pendaftaran Pasien Baru\obj\Debug\Formulir_Pendaftaran_Pasien_Baru.Form1.resources
+C:\Users\LENOVO\source\repos\Formulir Pendaftaran Pasien Baru\Formulir Pendaftaran Pasien Baru\obj\Debug\Formulir_Pendaftaran_Pasien_Baru.Resources.resources
+C:\Users\LENOVO\source\repos\Formulir Pendaftaran Pasien Baru\Formulir Pendaftaran Pasien Baru\obj\Debug\Formulir Pendaftaran Pasien Baru.vbproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Formulir Pendaftaran Pasien Baru\Formulir Pendaftaran Pasien Baru\obj\Debug\Formulir Pendaftaran Pasien Baru.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Formulir Pendaftaran Pasien Baru\Formulir Pendaftaran Pasien Baru\obj\Debug\Formulir Pendaftaran Pasien Baru.exe
+C:\Users\LENOVO\source\repos\Formulir Pendaftaran Pasien Baru\Formulir Pendaftaran Pasien Baru\obj\Debug\Formulir Pendaftaran Pasien Baru.xml
+C:\Users\LENOVO\source\repos\Formulir Pendaftaran Pasien Baru\Formulir Pendaftaran Pasien Baru\obj\Debug\Formulir Pendaftaran Pasien Baru.pdb
+C:\Users\LENOVO\Downloads\Compressed\form-registration-vb-main\Formulir Pendaftaran Pasien Baru\bin\Debug\Formulir Pendaftaran Pasien Baru.exe.config
+C:\Users\LENOVO\Downloads\Compressed\form-registration-vb-main\Formulir Pendaftaran Pasien Baru\bin\Debug\Formulir Pendaftaran Pasien Baru.exe
+C:\Users\LENOVO\Downloads\Compressed\form-registration-vb-main\Formulir Pendaftaran Pasien Baru\bin\Debug\Formulir Pendaftaran Pasien Baru.pdb
+C:\Users\LENOVO\Downloads\Compressed\form-registration-vb-main\Formulir Pendaftaran Pasien Baru\bin\Debug\Formulir Pendaftaran Pasien Baru.xml
+C:\Users\LENOVO\Downloads\Compressed\form-registration-vb-main\Formulir Pendaftaran Pasien Baru\obj\Debug\Formulir Pendaftaran Pasien Baru.vbproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Compressed\form-registration-vb-main\Formulir Pendaftaran Pasien Baru\obj\Debug\Formulir_Pendaftaran_Pasien_Baru.Form1.resources
+C:\Users\LENOVO\Downloads\Compressed\form-registration-vb-main\Formulir Pendaftaran Pasien Baru\obj\Debug\Formulir_Pendaftaran_Pasien_Baru.Resources.resources
+C:\Users\LENOVO\Downloads\Compressed\form-registration-vb-main\Formulir Pendaftaran Pasien Baru\obj\Debug\Formulir Pendaftaran Pasien Baru.vbproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\Compressed\form-registration-vb-main\Formulir Pendaftaran Pasien Baru\obj\Debug\Formulir Pendaftaran Pasien Baru.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Compressed\form-registration-vb-main\Formulir Pendaftaran Pasien Baru\obj\Debug\Formulir Pendaftaran Pasien Baru.exe
+C:\Users\LENOVO\Downloads\Compressed\form-registration-vb-main\Formulir Pendaftaran Pasien Baru\obj\Debug\Formulir Pendaftaran Pasien Baru.xml
+C:\Users\LENOVO\Downloads\Compressed\form-registration-vb-main\Formulir Pendaftaran Pasien Baru\obj\Debug\Formulir Pendaftaran Pasien Baru.pdb

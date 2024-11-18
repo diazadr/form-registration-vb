@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Formulir Pendaftaran Pasien Baru", "Formulir Pendaftaran Pasien Baru\Formulir Pendaftaran Pasien Baru.vbproj", "{A6897F20-B66C-416C-8B35-EB41F05D042D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{367222EE-75D9-446A-9B0A-4173AA530C08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6897F20-B66C-416C-8B35-EB41F05D042D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6897F20-B66C-416C-8B35-EB41F05D042D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6897F20-B66C-416C-8B35-EB41F05D042D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6897F20-B66C-416C-8B35-EB41F05D042D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{367222EE-75D9-446A-9B0A-4173AA530C08}.Debug|Any CPU.ActiveCfg = Debug
+		{367222EE-75D9-446A-9B0A-4173AA530C08}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC6572B9-DE5E-426A-B482-DA7E0AD0E406}
+	EndGlobalSection
+EndGlobal
